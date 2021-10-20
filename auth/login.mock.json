@@ -1,0 +1,15 @@
+{
+    "baseUrl": "http://localhost:8080/",
+    "baseApi": "",
+    "store_id": 18,
+    "users": {
+        "userSuccess": {
+            "login": "raphaelluiz128@hotmail.com",
+            "password": "123mudar"
+        },
+        "userWithoutLogin": {
+            "login": "usueriosemlogin@teste123.com",
+            "password": "asdaskdjasd"
+        }
+    }   
+}
